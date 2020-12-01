@@ -1,0 +1,20 @@
+{
+  "name": "vue3-vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^2.0.0-rc.2",
+    "axios": "^0.21.0",
+    "qs": "^6.9.4",
+    "vue": "^3.0.2",
+    "vue-router": "^4.0.0-rc.6"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "babel-plugin-import": "^1.13.3",
+    "vite": "^1.0.0-rc.8"
+  }
+}
